@@ -1,0 +1,6 @@
+{
+  "username": "your_username",
+  "password": "your_password",
+  "group_ids": ["group_id_1", "group_id_2"],
+  "interval_minutes": 60
+}
